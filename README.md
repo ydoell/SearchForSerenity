@@ -34,7 +34,7 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 - Ein Windows-, Linux- oder Mac-Computer
 - Internetverbindung
 - Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad\
-\
+
 
 Wir bitten Sie, folgende Schritte durchzuführen:\
 1) Herunterladen des Spiels
@@ -42,8 +42,10 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
   - Link zur Windows-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip)
   - Link zur Mac-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip)
   - Link zur Linux-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)\
+
 2) Entpacken der ZIP-Datei
-  - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.
+  - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.\
+
 3) Starten des Spiels
   - Windows: Doppelklick auf die „SearchForSerenity.exe"
     -> Ggf. blockiert Windows Defender das Spiel. Falls ein solches Popup erscheint, müssen Sie auf den Text „Weitere Informationen" klicken und anschließend auf den Button „Trotzdem ausführen".
@@ -56,14 +58,17 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
         d) Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
         e) Machen Sie erneut einen Doppelklick auf das Spiel.
           - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
-  - Linux: Doppelklick auf „SearchForSerenity.x86_64"
+  - Linux: Doppelklick auf „SearchForSerenity.x86_64"\
+
 4) Ausfüllen des Prätest-Fragebogens
-  - Die Umfrage wird am Anfang des Spiels aus dem Spiel heraus geöffnet.
+  - Die Umfrage wird am Anfang des Spiels aus dem Spiel heraus geöffnet.\
+
 5) Spielen des Computerspiels
   - Bitte nur die Level spielen, auf die Sie Lust haben!
   - Nach jedem Level wird automatisch gespeichert, weswegen Sie auch Pausen einlegen können.
   - Bitte vermeiden Sie eine längere Pause einzulegen, ohne das Pause-Menü zu öffnen oder das Computerspiel zu schließen. Sie können das Computerspiel nach Ihrer Pause durch Neustart oder durch Schließen des Pause-Menüs fortsetzen.
-  - Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das Quality-Level heruntersetzen.
+  - Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das Quality-Level heruntersetzen.\
+
 6) Ausfüllen des Posttest-Fragebogens
   - Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.
   \
