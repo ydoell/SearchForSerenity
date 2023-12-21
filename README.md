@@ -81,67 +81,73 @@ Kerstin Müller, Lennart Dümke, Yannic Döll
 ***
 
 English Version:\
-Dear students, dear lecturers, dear employees,\
-As part of a research project at Hochschule Bielefeld (HSBI) in cooperation with the Rheinland-\
-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU), the computer game "Search For\
-Serenity" has been developed and is now to be evaluated. To do this, we urgently need study\
-participants to try out our game.\
-The game "Search For Serenity" is a 3D game set in a futuristic, post-apocalyptic world. The game\
-contains six game elements that can be played as desired:\
-1\. Action-adventure (e.g. freeing aliens from a secret facility)\
-2\. Crafting (e.g. building a wind turbine)\
-3\. Exploration (e.g. searching for an escaped dog in a cybercity)\
-4\. Platforms (e.g. obstacle course with moving platforms, flying cars, tornadoes, etc.)\
-5\. Resource harvesting (e.g. collecting lightning on a mountain)\
-6\. Racing (e.g. car racing on a tropical island)\
-Your task is to only play the levels that you really want to play! That is why one run of the computer\
-game can take between 30 minutes and a maximum of 5 hours. The game does not have to be played\
-in one go, as progress is saved automatically.\
-Basic requirement for participation in the evaluation:\
-- 18 to 70 years old\
-- A Windows, Linux or Mac computer\
-- Internet connection\
-- Computer mouse (no touchpad and no Apple Magic Mouse) or gamepad\
-Please carry out the following steps:\
-1\. Download the game\
-- This is a 10 GB ZIP file.\
-- Link to the Windows version: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip\
-- Link to the Mac version: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip\
-- Link to the Linux version: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip\
-2\. Unpacking the ZIP file\
-- The unpacking process can take up to 15 minutes. The unzipped folder has a size of 22 GB.\
-3\. Start the game\
-- Windows: Double-click on the "SearchForSerenity.exe".\
-o Windows Defender may be blocking the game. If such a pop-up appears, you must\
-click on the text "More info" and then on the button "Run anyway".\
-- Mac: Double-click on the unzipped program "SearchForSerenityMac"\
-o The subsequent scanning of the game may take several minutes.\
-o Carry out the following steps if the game does not open after scanning:\
-- a) Open the Finder folder in which the game is located.\
-- b) If there is no path bar at the bottom of the Finder window, click on "View"\
-and then on "Show Path Bar".\
-- c) Right-click on the current folder in the path bar (or left-click while holding\
-down the "ctrl" key) and select "Open in Terminal".\
-- d) Enter the following command in the terminal window and press the Enter\
-key (or Return key): xattr -rc *.app\
-- e) Double-click on the game again.\
-o After starting the game, you will be asked in a pop-up whether the game is allowed to\
-access your folders and files. Please allow this, otherwise no measurement data can\
-be saved.\
-- Linux: Double-click on "SearchForSerenity.x86_64"\
-4\. Filling out the pre-test questionnaire\
-- The survey will be opened at the beginning of the game from within the game.\
-5\. Playing the computer game\
-- Please only play the levels you want to play!\
-- The game saves automatically after each level, so you can also take breaks.\
-- Please avoid taking a longer break without opening the pause menu or closing the computer\
-game. You can resume the computer game after your break by restarting it or by closing the\
-pause menu.\
-- If there are performance problems, you can reduce the resolution or the quality level in the\
-settings.\
-6\. Filling out the posttest questionnaire\
-- The survey will be opened at the end of the game from within the game.\
-Thank you for your support. If you have any questions about the project, please feel free to contact\
-us at kerstin.mueller@hsbi.de.\
+Dear students, dear lecturers, dear employees,
+<div style="text-align: justify"> 
+As part of a research project at Hochschule Bielefeld (HSBI) in cooperation with the Rheinland-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU), the computer game “Search For Serenity” has been developed and is now to be evaluated. To do this, we urgently need study participants to try out our game.
+The game “Search For Serenity” is a 3D game set in a futuristic, post-apocalyptic world. The game contains six game elements that can be played as desired:
+</div>
+
+\
+1) Action-adventure (e.g. freeing aliens from a secret facility)\
+2) Crafting (e.g. building a wind turbine)\
+3) Exploration (e.g. searching for an escaped dog in a cybercity)\
+4) Platforms (e.g. obstacle course with moving platforms, flying cars, tornadoes, etc.)\
+5) Resource harvesting (e.g. collecting lightning on a mountain)\
+6) Racing (e.g. car racing on a tropical island)
+
+<div style="text-align: justify"> 
+Your task is to only play the levels that you really want to play! That is why one run of the computer game can take between 30 minutes and a maximum of 5 hours. The game does not have to be played in one go, as progress is saved automatically.
+</div>
+\
+Basic requirement for participation in the evaluation:
+- 18 to 70 years old
+- A Windows, Linux or Mac computer
+- Internet connection
+- Computer mouse (no touchpad and no Apple Magic Mouse) or gamepad
+
+
+Please carry out the following steps:
+
+1) Download the game
+  - This is a 10 GB ZIP file.
+  - Link to the Windows version: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip)
+  - Link to the Mac version: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip)
+  - Link to the Linux version: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)
+
+2) Unpacking the ZIP file
+  - The unpacking process can take up to 15 minutes. The unzipped folder has a size of 22 GB.
+
+3) Start the game
+  - Windows: Double-click on the “SearchForSerenity.exe”.
+    - Windows Defender may be blocking the game. If such a pop-up appears, you must
+click on the text “More info” and then on the button “Run anyway”.
+  - Mac: Double-click on the unzipped program “SearchForSerenityMac”
+    - The subsequent scanning of the game may take several minutes.
+    - Carry out the following steps if the game does not open after scanning:
+      - Open the Finder folder in which the game is located.
+      - If there is no path bar at the bottom of the Finder window, click on “View”
+and then on “Show Path Bar”.
+      - Right-click on the current folder in the path bar (or left-click while holding
+down the “ctrl” key) and select “Open in Terminal”.
+      -  Enter the following command in the terminal window and press the Enter
+key (or Return key): xattr -rc *.app
+      - Double-click on the game again.
+      - After starting the game, you will be asked in a pop-up whether the game is allowed to access your folders and files. Please allow this, otherwise no measurement data can be saved.
+  - Linux: Double-click on “SearchForSerenity.x86_64”
+
+4) Filling out the pre-test questionnaire
+  - The survey will be opened at the beginning of the game from within the game.
+
+5) Playing the computer game
+  - Please only play the levels you want to play!
+  - The game saves automatically after each level, so you can also take breaks.
+  - Please avoid taking a longer break without opening the pause menu or closing the computer game. You can resume the computer game after your break by restarting it or by closing the pause menu.
+  - If there are performance problems, you can reduce the resolution or the quality level in the settings.
+
+6) Filling out the posttest questionnaire
+  - The survey will be opened at the end of the game from within the game.
+
+Thank you for your support. If you have any questions about the project, please feel free to contact us at kerstin.mueller@hsbi.de.
+
 Yours sincerely,\
 Kerstin Müller, Lennart Dümke, Yannic Döll
