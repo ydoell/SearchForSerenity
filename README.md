@@ -79,7 +79,9 @@ Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können 
 Mit freundlichen Grüßen,\
 Kerstin Müller, Lennart Dümke, Yannic Döll\
 \
-==================================================================================\
+
+***
+
 English Version:\
 Dear students, dear lecturers, dear employees,\
 As part of a research project at Hochschule Bielefeld (HSBI) in cooperation with the Rheinland-\
