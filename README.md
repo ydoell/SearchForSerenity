@@ -33,7 +33,7 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 - 18 bis 70 Jahre alt
 - Ein Windows-, Linux- oder Mac-Computer
 - Internetverbindung
-- Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad\
+- Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad
 
 
 Wir bitten Sie, folgende Schritte durchzuführen:\
@@ -43,23 +43,23 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
   - Link zur Windows-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip)
   - Link zur Mac-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip)
-  - Link zur Linux-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)\
+  - Link zur Linux-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)
 
 2) Entpacken der ZIP-Datei
   - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.\
 
 3) Starten des Spiels
   - Windows: Doppelklick auf die „SearchForSerenity.exe"
-    -> Ggf. blockiert Windows Defender das Spiel. Falls ein solches Popup erscheint, müssen Sie auf den Text „Weitere Informationen" klicken und anschließend auf den Button „Trotzdem ausführen".
+    - Ggf. blockiert Windows Defender das Spiel. Falls ein solches Popup erscheint, müssen Sie auf den Text „Weitere Informationen" klicken und anschließend auf den Button „Trotzdem ausführen".
   - Mac: Doppelklick auf das entpackte Programm „SearchForSerenityMac"
-    -> Das anschließende Scannen des Spiels kann mehrere Minuten dauern.
-    -> Führen Sie folgende Schritte aus, falls sich das Spiel nach dem Scannen nicht öffnet:
-        a) Öffnen Sie den Finder-Ordner, in dem sich das Spiel befindet.
-        b) Falls es keine Pfadleiste am unteren Rand des Finder-Fensters gibt, klicken Sie auf „Darstellung" und anschließend auf „Pfadleiste einblenden".
-        c) Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
-        d) Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
-        e) Machen Sie erneut einen Doppelklick auf das Spiel.
-          - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
+    - Das anschließende Scannen des Spiels kann mehrere Minuten dauern.
+    - Führen Sie folgende Schritte aus, falls sich das Spiel nach dem Scannen nicht öffnet:
+      1) Öffnen Sie den Finder-Ordner, in dem sich das Spiel befindet.
+      2) Falls es keine Pfadleiste am unteren Rand des Finder-Fensters gibt, klicken Sie auf „Darstellung" und anschließend auf „Pfadleiste einblenden".
+      3) Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
+      4) Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
+      5) Machen Sie erneut einen Doppelklick auf das Spiel.
+        - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
   - Linux: Doppelklick auf „SearchForSerenity.x86_64"\
 
 4) Ausfüllen des Prätest-Fragebogens
