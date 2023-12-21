@@ -1,13 +1,17 @@
-Studie -- Search For Serenity\
 **English version below**\
+\
 Liebe Studierende, liebe Lehrende, liebe Mitarbeitende,\
-im Rahmen eines Forschungsprojektes der Hochschule Bielefeld (HSBI) in Kooperation mit der\
+<div style="text-align: justify"> 
+  im Rahmen eines Forschungsprojektes der Hochschule Bielefeld (HSBI) in Kooperation mit der\
 Rheinland-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU) wurde das\
 Computerspiel „Search For Serenity" entwickelt, das nun evaluiert werden soll. Dafür benötigen wir\
 dringend Studienteilnehmer und -teilnehmerinnen, die unser Spiel ausprobieren.\
 Bei dem Spiel „Search For Serenity" handelt es sich um ein 3D-Spiel, welches in einer futuristischen,\
 postapokalyptischen Welt spielt. Das Spiel enthält sechs Spielelemente, die wahlweise gespielt\
-werden können:\
+werden können: 
+</div>
+
+\
 1) Action-Adventure (Bsp. Aliens aus einer geheimen Einrichtung befreien)\
 2) Crafting (Bsp. ein Windrad bauen)\
 3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)\
