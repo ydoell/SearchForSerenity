@@ -19,7 +19,8 @@ werden können:
 3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)\
 4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)\
 5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)\
-6) Racing (Bsp. Autorennen auf einer tropischen Insel)\
+6) Racing (Bsp. Autorennen auf einer tropischen Insel)
+\
 
 <div style="text-align: justify"> 
 Ihr Aufgabe besteht darin nur die Level zu spielen, auf die Sie auch wirklich Lust haben! Deswegen
@@ -34,6 +35,7 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 - Internetverbindung
 - Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad\
 \
+
 Wir bitten Sie, folgende Schritte durchzuführen:\
 1) Herunterladen des Spiels
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
