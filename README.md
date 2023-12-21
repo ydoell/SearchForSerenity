@@ -39,7 +39,7 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
   - Link zur Windows-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip)
   - Link zur Mac-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip)
-  - Link zur Linux-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)
+  - Link zur Linux-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)\
 2) Entpacken der ZIP-Datei
   - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.
 3) Starten des Spiels
