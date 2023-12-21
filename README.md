@@ -80,7 +80,7 @@ Kerstin Müller, Lennart Dümke, Yannic Döll
 
 ***
 
-English Version:\
+*English Version:*\
 Dear students, dear lecturers, dear employees,
 <div style="text-align: justify"> 
 As part of a research project at Hochschule Bielefeld (HSBI) in cooperation with the Rheinland-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU), the computer game “Search For Serenity” has been developed and is now to be evaluated. To do this, we urgently need study participants to try out our game.
