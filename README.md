@@ -1,6 +1,6 @@
 **English version below**\
 \
-Liebe Studierende, liebe Lehrende, liebe Mitarbeitende,\
+Liebe Studierende, liebe Lehrende, liebe Mitarbeitende,
 <div style="text-align: justify"> 
 im Rahmen eines Forschungsprojektes der Hochschule Bielefeld (HSBI) in Kooperation mit der
 Rheinland-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU) wurde das
@@ -18,7 +18,7 @@ werden können:
 4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)\
 5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)\
 6) Racing (Bsp. Autorennen auf einer tropischen Insel)\
-\
+
 <div style="text-align: justify"> 
 Ihr Aufgabe besteht darin nur die Level zu spielen, auf die Sie auch wirklich Lust haben! Deswegen
 kann ein Durchlauf des Computerspiels zwischen 30 Minuten und maximal 5 Stunden dauern. Das
@@ -30,9 +30,9 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 - 18 bis 70 Jahre alt
 - Ein Windows-, Linux- oder Mac-Computer
 - Internetverbindung
-- Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad
+- Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad\
 \
-Wir bitten Sie, folgende Schritte durchzuführen:
+Wir bitten Sie, folgende Schritte durchzuführen:\
 1) Herunterladen des Spiels
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
   - Link zur Windows-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip
