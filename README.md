@@ -2,12 +2,12 @@
 \
 Liebe Studierende, liebe Lehrende, liebe Mitarbeitende,\
 <div style="text-align: justify"> 
-  im Rahmen eines Forschungsprojektes der Hochschule Bielefeld (HSBI) in Kooperation mit der\
-Rheinland-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU) wurde das\
-Computerspiel „Search For Serenity" entwickelt, das nun evaluiert werden soll. Dafür benötigen wir\
-dringend Studienteilnehmer und -teilnehmerinnen, die unser Spiel ausprobieren.\
-Bei dem Spiel „Search For Serenity" handelt es sich um ein 3D-Spiel, welches in einer futuristischen,\
-postapokalyptischen Welt spielt. Das Spiel enthält sechs Spielelemente, die wahlweise gespielt\
+im Rahmen eines Forschungsprojektes der Hochschule Bielefeld (HSBI) in Kooperation mit der
+Rheinland-Pfälzischen Technischen Universität Kaiserslautern-Landau (RPTU) wurde das
+Computerspiel „Search For Serenity" entwickelt, das nun evaluiert werden soll. Dafür benötigen wir
+dringend Studienteilnehmer und -teilnehmerinnen, die unser Spiel ausprobieren.
+Bei dem Spiel „Search For Serenity" handelt es sich um ein 3D-Spiel, welches in einer futuristischen,
+postapokalyptischen Welt spielt. Das Spiel enthält sechs Spielelemente, die wahlweise gespielt
 werden können: 
 </div>
 
@@ -15,65 +15,59 @@ werden können:
 1) Action-Adventure (Bsp. Aliens aus einer geheimen Einrichtung befreien)\
 2) Crafting (Bsp. ein Windrad bauen)\
 3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)\
-4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,\
-etc.)\
+4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)\
 5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)\
 6) Racing (Bsp. Autorennen auf einer tropischen Insel)\
-Ihr Aufgabe besteht darin nur die Level zu spielen, auf die Sie auch wirklich Lust haben! Deswegen\
-kann ein Durchlauf des Computerspiels zwischen 30 Minuten und maximal 5 Stunden dauern. Das\
-Spiel muss auch nicht in einem Stück gespielt werden, da der Fortschritt automatisch gespeichert\
-wird.\
-Grundvoraussetzung zur Teilnahme an der Evaluation:\
-- 18 bis 70 Jahre alt\
-- Ein Windows-, Linux- oder Mac-Computer\
-- Internetverbindung\
-- Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad\
-Wir bitten Sie, folgende Schritte durchzuführen:\
-1\. Herunterladen des Spiels\
-- Es handelt sich hierbei um eine 10 GB ZIP-Datei.\
-- Link zur Windows-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip\
-- Link zur Mac-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip\
-- Link zur Linux-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip\
-2\. Entpacken der ZIP-Datei\
-- Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine\
-Größe von 22 GB.\
-3\. Starten des Spiels\
-- Windows: Doppelklick auf die „SearchForSerenity.exe"\
--> Ggf. blockiert Windows Defender das Spiel. Falls ein solches Popup erscheint,\
-müssen Sie auf den Text „Weitere Informationen" klicken und anschließend auf den Button\
-„Trotzdem ausführen".\
-- Mac: Doppelklick auf das entpackte Programm „SearchForSerenityMac"\
--> Das anschließende Scannen des Spiels kann mehrere Minuten dauern.\
-o Führen Sie folgende Schritte aus, falls sich das Spiel nach dem Scannen nicht öffnet:\
-- a) Öffnen Sie den Finder-Ordner, in dem sich das Spiel befindet.\
-- b) Falls es keine Pfadleiste am unteren Rand des Finder-Fensters gibt, klicken\
-Sie auf „Darstellung" und anschließend auf „Pfadleiste einblenden".\
-- c) Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder\
-mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal\
-öffnen" aus.\
-- d) Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die\
-Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app\
-- e) Machen Sie erneut einen Doppelklick auf das Spiel.\
-o Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre\
-Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten\
-abgespeichert werden können.\
-- Linux: Doppelklick auf „SearchForSerenity.x86_64"\
-4\. Ausfüllen des Prätest-Fragebogens\
-- Die Umfrage wird am Anfang des Spiels aus dem Spiel heraus geöffnet.\
-5\. Spielen des Computerspiels\
-- Bitte nur die Level spielen, auf die Sie Lust haben!\
-- Nach jedem Level wird automatisch gespeichert, weswegen Sie auch Pausen einlegen können.\
-- Bitte vermeiden Sie eine längere Pause einzulegen, ohne das Pause-Menü zu öffnen oder das\
-Computerspiel zu schließen. Sie können das Computerspiel nach Ihrer Pause durch Neustart oder\
-durch Schließen des Pause-Menüs fortsetzen.\
-- Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das\
-Quality-Level heruntersetzen.\
-6\. Ausfüllen des Posttest-Fragebogens\
-- Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.\
-Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können Sie uns gerne unter\
-kerstin.mueller@hsbi.de kontaktieren.\
+\
+<div style="text-align: justify"> 
+Ihr Aufgabe besteht darin nur die Level zu spielen, auf die Sie auch wirklich Lust haben! Deswegen
+kann ein Durchlauf des Computerspiels zwischen 30 Minuten und maximal 5 Stunden dauern. Das
+Spiel muss auch nicht in einem Stück gespielt werden, da der Fortschritt automatisch gespeichert
+wird.
+</div>
+\
+Grundvoraussetzung zur Teilnahme an der Evaluation:
+- 18 bis 70 Jahre alt
+- Ein Windows-, Linux- oder Mac-Computer
+- Internetverbindung
+- Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad
+\
+Wir bitten Sie, folgende Schritte durchzuführen:
+1) Herunterladen des Spiels
+  - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
+  - Link zur Windows-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip
+  - Link zur Mac-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityMac.zip
+  - Link zur Linux-Variante: https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip
+2) Entpacken der ZIP-Datei
+  - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.
+3) Starten des Spiels
+  - Windows: Doppelklick auf die „SearchForSerenity.exe"
+    -> Ggf. blockiert Windows Defender das Spiel. Falls ein solches Popup erscheint, müssen Sie auf den Text „Weitere Informationen" klicken und anschließend auf den Button „Trotzdem ausführen".
+  - Mac: Doppelklick auf das entpackte Programm „SearchForSerenityMac"
+    -> Das anschließende Scannen des Spiels kann mehrere Minuten dauern.
+    -> Führen Sie folgende Schritte aus, falls sich das Spiel nach dem Scannen nicht öffnet:
+        a) Öffnen Sie den Finder-Ordner, in dem sich das Spiel befindet.
+        b) Falls es keine Pfadleiste am unteren Rand des Finder-Fensters gibt, klicken Sie auf „Darstellung" und anschließend auf „Pfadleiste einblenden".
+        c) Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
+        d) Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
+        e) Machen Sie erneut einen Doppelklick auf das Spiel.
+          - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
+  - Linux: Doppelklick auf „SearchForSerenity.x86_64"
+4) Ausfüllen des Prätest-Fragebogens
+  - Die Umfrage wird am Anfang des Spiels aus dem Spiel heraus geöffnet.
+5) Spielen des Computerspiels
+  - Bitte nur die Level spielen, auf die Sie Lust haben!
+  - Nach jedem Level wird automatisch gespeichert, weswegen Sie auch Pausen einlegen können.
+  - Bitte vermeiden Sie eine längere Pause einzulegen, ohne das Pause-Menü zu öffnen oder das Computerspiel zu schließen. Sie können das Computerspiel nach Ihrer Pause durch Neustart oder durch Schließen des Pause-Menüs fortsetzen.
+  - Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das Quality-Level heruntersetzen.
+6) Ausfüllen des Posttest-Fragebogens
+  - Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.
+  \
+  \
+Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können Sie uns gerne unter kerstin.mueller@hsbi.de kontaktieren.\
 Mit freundlichen Grüßen,\
 Kerstin Müller, Lennart Dümke, Yannic Döll\
+\
 ==================================================================================\
 English Version:\
 Dear students, dear lecturers, dear employees,\
