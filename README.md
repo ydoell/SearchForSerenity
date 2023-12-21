@@ -37,6 +37,8 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 
 
 Wir bitten Sie, folgende Schritte durchzuführen:\
+\
+
 1) Herunterladen des Spiels
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
   - Link zur Windows-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityWindows.zip)
@@ -70,10 +72,10 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
   - Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das Quality-Level heruntersetzen.\
 
 6) Ausfüllen des Posttest-Fragebogens
-  - Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.
-  \
-  \
+  - Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.\
+
 Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können Sie uns gerne unter kerstin.mueller@hsbi.de kontaktieren.\
+
 Mit freundlichen Grüßen,\
 Kerstin Müller, Lennart Dümke, Yannic Döll\
 \
