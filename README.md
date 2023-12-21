@@ -14,13 +14,12 @@ werden können:
 </div>
 
 \
-1) Action-Adventure (Bsp. Aliens aus einer geheimen Einrichtung befreien)\
-2) Crafting (Bsp. ein Windrad bauen)\
-3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)\
-4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)\
-5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)\
+1) Action-Adventure (Bsp. Aliens aus einer geheimen Einrichtung befreien)
+2) Crafting (Bsp. ein Windrad bauen)
+3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)
+4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)
+5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)
 6) Racing (Bsp. Autorennen auf einer tropischen Insel)
-\
 
 <div style="text-align: justify"> 
 Ihr Aufgabe besteht darin nur die Level zu spielen, auf die Sie auch wirklich Lust haben! Deswegen
@@ -36,7 +35,7 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 - Computermaus (kein Touchpad und keine Apple Magic Mouse) oder Gamepad
 
 
-Wir bitten Sie, folgende Schritte durchzuführen:\
+Wir bitten Sie, folgende Schritte durchzuführen:
 
 1) Herunterladen des Spiels
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
@@ -75,7 +74,7 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
 
 Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können Sie uns gerne unter kerstin.mueller@hsbi.de kontaktieren.
 
-Mit freundlichen Grüßen,
+Mit freundlichen Grüßen,\
 Kerstin Müller, Lennart Dümke, Yannic Döll
 
 
