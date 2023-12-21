@@ -44,7 +44,7 @@ Wir bitten Sie, folgende Schritte durchzuführen:
   - Link zur Linux-Variante: [https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip](https://ifm.fh-bielefeld.de/cgti/SearchForSerenityLinux.zip)
 
 2) Entpacken der ZIP-Datei
-  - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.\
+  - Der Vorgang des Entpackens kann bis zu 15 Minuten dauern. Der entpackte Ordner hat eine Größe von 22 GB.
 
 3) Starten des Spiels
   - Windows: Doppelklick auf die „SearchForSerenity.exe"
