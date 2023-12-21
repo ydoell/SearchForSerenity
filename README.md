@@ -54,11 +54,11 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
   - Mac: Doppelklick auf das entpackte Programm „SearchForSerenityMac"
     - Das anschließende Scannen des Spiels kann mehrere Minuten dauern.
     - Führen Sie folgende Schritte aus, falls sich das Spiel nach dem Scannen nicht öffnet:
-      1) Öffnen Sie den Finder-Ordner, in dem sich das Spiel befindet.
-      2) Falls es keine Pfadleiste am unteren Rand des Finder-Fensters gibt, klicken Sie auf „Darstellung" und anschließend auf „Pfadleiste einblenden".
-      3) Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
-      4) Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
-      5) Machen Sie erneut einen Doppelklick auf das Spiel.
+      - Öffnen Sie den Finder-Ordner, in dem sich das Spiel befindet.
+      - Falls es keine Pfadleiste am unteren Rand des Finder-Fensters gibt, klicken Sie auf „Darstellung" und anschließend auf „Pfadleiste einblenden".
+      - Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
+      - Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
+      - Machen Sie erneut einen Doppelklick auf das Spiel.
         - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
   - Linux: Doppelklick auf „SearchForSerenity.x86_64"\
 
