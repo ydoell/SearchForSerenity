@@ -14,11 +14,11 @@ werden können:
 </div>
 
 \
-1) Action-Adventure (Bsp. Aliens aus einer geheimen Einrichtung befreien)
-2) Crafting (Bsp. ein Windrad bauen)
-3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)
-4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)
-5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)
+1) Action-Adventure (Bsp. Aliens aus einer geheimen Einrichtung befreien)\
+2) Crafting (Bsp. ein Windrad bauen)\
+3) Exploration (Bsp. einen entlaufenden Hund in einer Cybercity suchen)\
+4) Plattformer (Bsp. Hindernisparcours mit bewegenden Plattformen, fliegenden Autos, Tornados,etc.)\
+5) Ressourcen sammeln (Bsp. Blitze auf einem Berg einsammeln)\
 6) Racing (Bsp. Autorennen auf einer tropischen Insel)
 
 <div style="text-align: justify"> 
