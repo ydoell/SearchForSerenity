@@ -37,7 +37,6 @@ Grundvoraussetzung zur Teilnahme an der Evaluation:
 
 
 Wir bitten Sie, folgende Schritte durchzuführen:\
-\
 
 1) Herunterladen des Spiels
   - Es handelt sich hierbei um eine 10 GB ZIP-Datei.
@@ -59,26 +58,26 @@ Wir bitten Sie, folgende Schritte durchzuführen:\
       - Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
       - Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
       - Machen Sie erneut einen Doppelklick auf das Spiel.
-        - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
-  - Linux: Doppelklick auf „SearchForSerenity.x86_64"\
+      - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
+  - Linux: Doppelklick auf „SearchForSerenity.x86_64"
 
 4) Ausfüllen des Prätest-Fragebogens
-  - Die Umfrage wird am Anfang des Spiels aus dem Spiel heraus geöffnet.\
+  - Die Umfrage wird am Anfang des Spiels aus dem Spiel heraus geöffnet.
 
 5) Spielen des Computerspiels
   - Bitte nur die Level spielen, auf die Sie Lust haben!
   - Nach jedem Level wird automatisch gespeichert, weswegen Sie auch Pausen einlegen können.
   - Bitte vermeiden Sie eine längere Pause einzulegen, ohne das Pause-Menü zu öffnen oder das Computerspiel zu schließen. Sie können das Computerspiel nach Ihrer Pause durch Neustart oder durch Schließen des Pause-Menüs fortsetzen.
-  - Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das Quality-Level heruntersetzen.\
+  - Falls es Performance-Probleme gibt, können Sie in den Einstellungen die Auflösung oder das Quality-Level heruntersetzen.
 
 6) Ausfüllen des Posttest-Fragebogens
-  - Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.\
+  - Die Umfrage wird am Ende des Spiels aus dem Spiel heraus geöffnet.
 
-Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können Sie uns gerne unter kerstin.mueller@hsbi.de kontaktieren.\
+Vielen Dank für Ihre Unterstützung. Wenn Sie Fragen zum Projekt haben können Sie uns gerne unter kerstin.mueller@hsbi.de kontaktieren.
 
-Mit freundlichen Grüßen,\
-Kerstin Müller, Lennart Dümke, Yannic Döll\
-\
+Mit freundlichen Grüßen,
+Kerstin Müller, Lennart Dümke, Yannic Döll
+
 
 ***
 
