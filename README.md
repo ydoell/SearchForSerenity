@@ -57,7 +57,7 @@ Wir bitten Sie, folgende Schritte durchzuführen:
       - Klicken sie mit Rechtsklick auf den aktuellen Ordner in der Pfadleiste (oder mittels Linksklick und gedrückter „ctrl" Taste) und wählen Sie „In Terminal öffnen" aus.
       - Geben Sie folgenden Befehl im Terminal-Fenster ein und drücken sie die Enter-Taste (bzw. Return-Taste oder Zeilenschalter): xattr -rc *.app
       - Machen Sie erneut einen Doppelklick auf das Spiel.
-      - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
+    - Nach dem Starten des Spiels werden Sie per Popup gefragt, ob das Spiel auf Ihre Ordner und Dateien zugreifen darf. Dieses bitte erlauben, da sonst keine Messdaten abgespeichert werden können.
   - Linux: Doppelklick auf „SearchForSerenity.x86_64"
 
 4) Ausfüllen des Prätest-Fragebogens
@@ -132,7 +132,7 @@ down the “ctrl” key) and select “Open in Terminal”.
       -  Enter the following command in the terminal window and press the Enter
 key (or Return key): xattr -rc *.app
       - Double-click on the game again.
-      - After starting the game, you will be asked in a pop-up whether the game is allowed to access your folders and files. Please allow this, otherwise no measurement data can be saved.
+    - After starting the game, you will be asked in a pop-up whether the game is allowed to access your folders and files. Please allow this, otherwise no measurement data can be saved.
   - Linux: Double-click on “SearchForSerenity.x86_64”
 
 4) Filling out the pre-test questionnaire
